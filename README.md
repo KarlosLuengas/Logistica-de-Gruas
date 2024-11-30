@@ -27,7 +27,8 @@ Optimizar imágenes y agregar una funcionalidad de facturación.
 Un proyecto orientado a destacar mis habilidades en Front-end y el uso del framework Bootstrap.
 
 Objetivo: Promocionar un producto ficticio para un proyecto escolar.
-Proyecto Gruas
+
+# Proyecto Gruas
 Desarrollado para el Gobierno de Puebla, este sistema de logística para accidentes viales incluye:
 
 Registro de ubicaciones, corralones y generación de códigos únicos.
