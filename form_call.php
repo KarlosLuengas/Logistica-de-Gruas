@@ -602,7 +602,7 @@ function getComponentValue(result, componentType) {
     
   </script>
   <!-- Incluir la API de Google Maps con tu clave -->
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAAn8CzW6tHD-lPlO8SjK0ks46r3udQwgQ&callback=initMap" async defer></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=callback=initMap" async defer></script>
         <?php
         if ($mensaje) {
             echo '<div class="alert ' . $mensaje['clase'] . '" role="alert">' . $mensaje['texto'] . '</div>';
