@@ -13,6 +13,7 @@ Desarrollado para el gobierno del estado de Puebla, este sistema log√≠stico est√
 - HTML
 - Bootstrap 
 - JavaScript
+- CSS
 ### Back-end
 - PHP
 ### APIs
